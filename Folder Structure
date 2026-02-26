@@ -1,0 +1,17 @@
+laptop-search-production/
+
+backend/
+    main.py
+    database.py
+    models.py
+    requirements.txt
+    .env
+
+frontend/
+    package.json
+    vercel.json
+    .env
+    src/
+        App.js
+        Search.js
+        Results.js
